@@ -35,7 +35,7 @@ $finalcode = createRandomPassword();
     <link rel="icon" type="image/png" href="assets/img/favicon.ico">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
-    <title>Farmacia</title>
+    <title>MEDICAMENTOS ADMINISTRAÇÃO</title>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
     <meta name="viewport" content="width=device-width"/>
@@ -71,8 +71,8 @@ $finalcode = createRandomPassword();
 
         <div class="sidebar-wrapper">
             <div class="logo">
-                <img src="img/farmacia-logo.png" alt="logo" width="60px">
-                <p>Farmacia Gama</p>
+                <img src="img/logotipo-medicamentos.jpeg" alt="logo" width="60px">
+                <p>MEDICAMENTOS</p>
             </div>
 
             <ul class="nav">
@@ -85,7 +85,7 @@ $finalcode = createRandomPassword();
                 <li>
                     <a href="?pg=usuario">
                         <i class="pe-7s-user"></i>
-                        <p>Usuarios</p>
+                        <p>Usuários</p>
                     </a>
                 </li>
                 <li>
@@ -115,7 +115,7 @@ $finalcode = createRandomPassword();
                 <li>
                     <a href="?pg=relatorio_clientes">
                         <i class="pe-7s-graph2"></i>
-                        <p>Relatorios</p>
+                        <p>Relatórios</p>
                     </a>
                 </li>
                 <li>
@@ -148,7 +148,7 @@ $finalcode = createRandomPassword();
                     <ul class="nav navbar-nav navbar-right">
                         <li>
                             <a href="logout">
-                                <i class="pe-7s-power">Logout</i>
+                                <i class="pe-7s-power"> Sair</i>
                             </a>
                         </li>
                     </ul>
@@ -174,7 +174,7 @@ $finalcode = createRandomPassword();
                 <p class="copyright pull-right">
                     &copy;
                     <script>document.write(new Date().getFullYear())</script>
-                    Gama Sfotware
+                    Elderly Systems
                 </p>
             </div>
         </footer>

@@ -7,7 +7,7 @@ $usuario = $_SESSION['usuario'];
         <div class="col-md-4">
             <div class="card" style="width: 280px;height: 100px;margin-left: 50px;background-color: #b8ecf3">
                 <div class="">
-                    <h2 style="margin-left: 50px;margin-top: 15px;">Bem vindo</h2>
+                    <h2 style="margin-left: 50px;margin-top: 15px;">Início</h2>
                     <h3 style="margin-left: 80px;"><?php echo $usuario ?></h3>
                 </div>
             </div>
