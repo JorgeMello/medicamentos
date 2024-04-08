@@ -27,7 +27,7 @@ $usuario = $_SESSION['usuario'];
             </style>
             <div style="position:relative;background-color:#FFFFFF;margin-left: 45px">
                 <div id="wf_div"></div>
-                <script type="text/javascript" src="https://tools.tititudorancea.com/weather_forecast.js?place=cachoeira_do_sul&amp;s=1&amp;days=6&amp;utf8=no&amp;columns=3&amp;lang=pt"></script>
+                <script type="text/javascript" src="https://tools.tititudorancea.com/weather_forecast.js?place=porto_alegre_brazil&amp;s=1&amp;days=6&amp;utf8=no&amp;columns=3&amp;lang=pt"></script>
 
             </div>
             <!--end of Weather Forecast-->
