@@ -140,7 +140,7 @@ $finalcode = createRandomPassword();
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Home</a>
+                    <a class="navbar-brand" href="#">Início</a>
                 </div>
                 <div class="collapse navbar-collapse">
 

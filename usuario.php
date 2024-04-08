@@ -14,7 +14,7 @@ if (isset( $_GET['deletar'] )) {
 
     <div id="top" class="row">
         <div class="col-sm-2">
-            <h2>Usuarios</h2>
+            <h2>Usuários</h2>
         </div>
         <div class="col-sm-6">
 
