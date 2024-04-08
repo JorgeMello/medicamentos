@@ -21,7 +21,7 @@ session_start()
     <div class="container" >
 
 </nav >
-<div class="page-header header-filter" style = "background-image: url('img/far.png'); background-size: cover; background-position: top center;" >
+<div class="page-header header-filter" style = "background-image: url('img/atendente de farmácia medicamentos cuidador.jpeg'); background-size: cover; background-position: top center;" >
     <div class="container" >
         <?php
         if(isset($_POST['acao'])){
@@ -49,7 +49,7 @@ session_start()
                 <form class="form" method = "post" action="index.php">
                     <div class="card-header card-header-primary text-center" >
 
-                        <h4 class="card-title" > Login</h4 >
+                        <h5 class="card-title" > Login</h5 >
                     </div >
                     <div class="card-body" >
                         <div class="input-group" >
