@@ -49,7 +49,7 @@ session_start()
                 <form class="form" method = "post" action="index.php">
                     <div class="card-header card-header-primary text-center" >
 
-                        <h5 class="card-title" > Login</h5 >
+                        <h5 class="card-title" > Login</h5>
                     </div >
                     <div class="card-body" >
                         <div class="input-group" >
@@ -72,7 +72,7 @@ session_start()
                                 <input type = "password" class="form-control" placeholder = "Digite a senha" name = "senha" >
                             </label >
                         </div >
-                        <button type = "submit"  name = "acao" class="btn btn-primary"> Logar</button >
+                        <button type = "submit"  name = "acao" class="btn btn-primary"> Entrar</button >
                     </div >
                 </form >
             </div >
@@ -82,7 +82,7 @@ session_start()
         <div class="container" >
 
             <div class="copyright " >
-                &copy; GAMA SOFTWARE
+                &copy; <?= date('Y') ?> OsIdosos.com.br
             </div >
         </div >
     </footer >
